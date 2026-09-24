@@ -1,0 +1,47 @@
+{
+  "best_model": "Logistic Regression",
+  "all_results": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.7409,
+      "Precision": 0.507,
+      "Recall": 0.7796,
+      "F1": 0.6144,
+      "ROC_AUC": 0.8398
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.7708,
+      "Precision": 0.553,
+      "Recall": 0.7016,
+      "F1": 0.6185,
+      "ROC_AUC": 0.8342
+    }
+  ],
+  "feature_columns": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "SeniorCitizen",
+    "Contract",
+    "gender",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "PaperlessBilling",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "PaymentMethod"
+  ],
+  "target": "Churn",
+  "test_size": 0.2,
+  "random_state": 42,
+  "duplicate_rows_removed": 22,
+  "TotalCharges_imputation": "11 rows with tenure=0 had whitespace TotalCharges. Filled with MonthlyCharges (no charges accrued yet)."
+}

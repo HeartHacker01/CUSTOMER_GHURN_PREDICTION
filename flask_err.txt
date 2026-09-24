@@ -1,0 +1,26 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 227-286-694
+ * Detected change in 'C:\\Users\\monda\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pyparsing\\core.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 227-286-694
+ * Detected change in 'C:\\Users\\monda\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\curses\\__init__.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 227-286-694
+ * Detected change in 'C:\\Users\\monda\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\sax\\__init__.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 227-286-694
+ * Detected change in 'C:\\Users\\monda\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\zmq\\_future.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 227-286-694
+ * Detected change in 'C:\\Users\\monda\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\anyio\\abc\\__init__.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 227-286-694
