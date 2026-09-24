@@ -266,3 +266,5 @@ The trained model identified the following as the **top churn drivers**:
 > Predictions produced by this model are estimates from a statistical algorithm and are
 > **not** a guarantee of future customer behaviour. They should be used as one input
 > among many in a data-driven retention strategy.
+#   C U S T O M E R _ G H U R N _ P R E D I C T I O N  
+ 
